@@ -29,4 +29,4 @@ Taco Bell egy népszerű amerikai gyorsétteremlánc  amit 1962-ben alapított m
 ### Egyéb különlegességek:
 * Cinnamon Twists
 * Soft Drinks
-Github link a weboldalhoz: [Katt ide](https://aigyuri.github.io/school_work_2024_2025/)
+* Github link a weboldalhoz: [Katt ide](https://aigyuri.github.io/school_work_2024_2025/)
